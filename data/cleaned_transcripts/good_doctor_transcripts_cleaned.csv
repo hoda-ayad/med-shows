@@ -1,5 +1,5 @@
-,show_id,season,episode,script
-0,6470478,1,1,"♪♪ 
+ep_id,show_id,season,episode,script
+gdoc_1_1,6470478,1,1,"♪♪ 
  ♪♪ 
  ♪♪ 
  ♪♪ 
@@ -722,7 +722,7 @@
  Does it hurt you as a person? 
  Is it worth it? 
  ♪♪"
-1,6470478,1,2,"Autism... a mental condition 
+gdoc_1_2,6470478,1,2,"Autism... a mental condition 
  characterized by difficulty in communicating. 
  Does it sound like I'm describing a surgeon? 
  You saved his life. 
@@ -1765,7 +1765,7 @@
  ♪ If you'd ask me to ♪ 
  ♪ In a year or two ♪ 
  ♪ Oh, oh, oh ♪"
-2,6470478,1,3,"Previously on ""The Good Doctor""... 
+gdoc_1_3,6470478,1,3,"Previously on ""The Good Doctor""... 
  ETHAN: How hard can it be 
  to just act like a normal human being? 
  No! 
@@ -2624,7 +2624,7 @@
  ♪ You always build it better the second time around ♪ 
  ♪ You always build it better ♪ 
  ♪ You always build it better the second time around ♪"
-3,6470478,1,4,"Previously on ""The Good Doctor""... 
+gdoc_1_4,6470478,1,4,"Previously on ""The Good Doctor""... 
  I'm your neighbor. I'm in the middle of ""Uncharted,"" and I'm dead. 
  Can I borrow some triple A's? 
  It's kind of silly, isn't it? 
@@ -3667,7 +3667,7 @@
  - Cheers. 
  ♪ When you're with me, baby ♪ 
  ♪ Baby, there's nothing holdin' me back ♪"
-4,6470478,1,5,"Previously on ""The Good Doctor""... 
+gdoc_1_5,6470478,1,5,"Previously on ""The Good Doctor""... 
  ETHAN: How hard can it be 
  to just act like a normal human being?! 
  - [GRUNTS] 
@@ -4630,7 +4630,7 @@
  ♪ It comes back every time ♪ 
  ♪ 
  ♪ Every time ♪"
-5,6470478,1,6,"Previously on ""The Good Doctor""... 
+gdoc_1_6,6470478,1,6,"Previously on ""The Good Doctor""... 
  Is there something you're not telling me? 
  When we're in meetings together, don't ever call my ideas ""ridiculous.""   Come on. 
  I'm being serious. 
@@ -5554,7 +5554,7 @@
  Okay. 
  Okay. 
  ♪"
-6,6470478,1,7,"♪ 
+gdoc_1_7,6470478,1,7,"♪ 
  ♪ 
  [SIREN WAILS IN DISTANCE] 
  [KEYBOARD TAPS] 
@@ -6435,7 +6435,7 @@
  ...stay as long as you like. 
  [TVS PLAY INDISTINCTLY] 
  [TVS PLAY INDISTINCTLY]"
-7,6470478,1,8,"[ALARM RINGING] 
+gdoc_1_8,6470478,1,8,"[ALARM RINGING] 
  [ALARM STOPS] 
  [BIRDS CHIRPING] 
  [DERBY'S ""IF EVER THERE'S A REASON"" PLAYS] 
@@ -7467,7 +7467,7 @@
  ♪ Please put down your hands ♪ 
  ♪ 'Cause I see you ♪ 
  ♪"
-8,6470478,1,9,"[Elevator bell dings] 
+gdoc_1_9,6470478,1,9,"[Elevator bell dings] 
  Very nice meeting you. 
  ♪ 
  So, who was that? 
@@ -8432,7 +8432,7 @@
  Yeah. 
  [Lock disengages, door opens] 
  ♪"
-9,6470478,1,10,"Good news. I have a VIP who needs a multiple ligament 
+gdoc_1_10,6470478,1,10,"Good news. I have a VIP who needs a multiple ligament 
  reconstruction on his elbow, and I've got room 
  for a couple residents to assist me and Dr. Melendez. 
  Awesome. 
@@ -9362,7 +9362,7 @@
  What do you think that means? 
  ♪ 
  It means he's not coming back."
-10,6470478,1,11,"Previously on ""The Good Doctor""... 
+gdoc_1_11,6470478,1,11,"Previously on ""The Good Doctor""... 
  Dr. Coyle... He's a little too friendly. 
  I'm sure he's just trying to establish a rapport. 
  COYLE: I give great massages. 
@@ -10352,7 +10352,7 @@
  ♪ 
  Now I only feel tired 
  ♪"
-11,6470478,1,12,"Previously on ""The Good Doctor""... 
+gdoc_1_12,6470478,1,12,"Previously on ""The Good Doctor""... 
  LEA: You need to take a break, clear your head. 
  You need a vacation. 
  I'm gonna quit my job. 
@@ -11131,7 +11131,7 @@
  ♪ Can you keep me close? ♪ 
  ♪ Can you love me most? ♪ 
  ♪"
-12,6470478,1,13,"♪ 
+gdoc_1_13,6470478,1,13,"♪ 
  ♪ 
  ♪ 
  ♪ 
@@ -12104,7 +12104,7 @@
  Mmm. 
  ♪ 
  ♪ Do you feel a little broken? ♪"
-13,6470478,1,14,"[KNOCKING ON DOOR] 
+gdoc_1_14,6470478,1,14,"[KNOCKING ON DOOR] 
  ♪ 
  [KNOCKING CONTINUES] 
  KENNY: Morning, Doc! 
@@ -13221,7 +13221,7 @@
  - ♪ Rivers and roads ♪ 
  ♪ Rivers and roads ♪ 
  ♪ Rivers till I reach you ♪"
-14,6470478,1,15,"[""THIS HEART'S ON FIRE"" BY WOLF PARADE PLAYING] 
+gdoc_1_15,6470478,1,15,"[""THIS HEART'S ON FIRE"" BY WOLF PARADE PLAYING] 
  ♪ 
  ♪ Sometimes we rock and roll ♪ 
  ♪ Sometimes we stay at home, and it's just fine ♪ 
@@ -14264,7 +14264,7 @@
  ♪ Surround me ♪ 
  ♪ Surround me ♪ 
  ♪"
-15,6470478,1,16,"My neighbor Kenny and his girlfriend go all the time. 
+gdoc_1_16,6470478,1,16,"My neighbor Kenny and his girlfriend go all the time. 
  The rides were actually fun, Claire, 
  even though they hurl you through the air very quickly 
  without a proper three-point seatbelt. 
@@ -15113,7 +15113,7 @@
  That looks like a spinal fracture. 
  Yeah, I'd say... I'd say there's a huge fracture there. 
  SHAWN: You died."
-16,6470478,1,17,"♪   MAN: The timing was good. 
+gdoc_1_17,6470478,1,17,"♪   MAN: The timing was good. 
  I just got a job transfer,   Gretchen will start at a new school... 
  We're gonna start a whole new life. 
  It's very exciting. 
@@ -15956,7 +15956,7 @@
  - Mm-hmm. 
  - Thank you. 
  ♪"
-17,6470478,1,18,"I want to be your friend again. 
+gdoc_1_18,6470478,1,18,"I want to be your friend again. 
  W-Why, Shaun? What happened? 
  People need friends. 
  Well...[CHUCKLES] 
@@ -16898,7 +16898,7 @@
  ♪ 
  [KNOCK ON DOOR] 
  ♪"
-18,6470478,2,1,"MAN: 
+gdoc_2_1,6470478,2,1,"MAN: 
  Previously on The Good Doctor... 
  Shaun, I have cancer. 
  I have to undergo brain surgery, which is really scary. 
@@ -17753,7 +17753,7 @@
  (CHUCKLES) 
  Aren't you gonna say hello? 
  Hello."
-19,6470478,2,2,"(BIRDS CHIRPING) 
+gdoc_2_2,6470478,2,2,"(BIRDS CHIRPING) 
  ♪ 
  ♪ 
  You're here early. 
@@ -18551,7 +18551,7 @@
  Well, that's all I can ask. 
  You know the drill. 
  ♪"
-20,6470478,2,3,"(MONITOR BEEPING) 
+gdoc_2_3,6470478,2,3,"(MONITOR BEEPING) 
  (SIGHS) 
  Good morning. 
  What time is it? 
@@ -19411,7 +19411,7 @@
  No, dummy. 
  You're just tired. 
  ♪"
-21,6470478,2,4,"(BIRDS CHIRPING) 
+gdoc_2_4,6470478,2,4,"(BIRDS CHIRPING) 
  I got you a doughnut. 
  Apparently. 
  What are you doing today? 
@@ -20182,7 +20182,7 @@
  No one in between 
  ♪ 
  ♪ How can we be wrong? ♪"
-22,6470478,2,5,"[DOOR OPENS] 
+gdoc_2_5,6470478,2,5,"[DOOR OPENS] 
  ♪ 
  We should not live together. 
  That makes no sense. 
@@ -20944,7 +20944,7 @@
  - [LAUGHS] 
  - Yes! 
  - [LAUGHS]"
-23,6470478,2,6,"[SPITS] 
+gdoc_2_6,6470478,2,6,"[SPITS] 
  [SPITS] 
  [LIGHT SWITCH CLICKS] 
  [LIGHT SWITCH CLICKS] 
@@ -21707,7 +21707,7 @@
  ♪ 
  I like that idea very much. 
  ♪ Tonight, tonight, tonight, tonight ♪"
-24,6470478,2,7,"Previously on ""The Good Doctor""... 
+gdoc_2_7,6470478,2,7,"Previously on ""The Good Doctor""... 
  Coming back to California and moving in with you... it's been harder than I anticipated. 
  Hershey meant everything to me, Shaun. 
  I took the biggest chance of my life going back there. 
@@ -22459,7 +22459,7 @@
  ♪ Your life will surely change ♪ 
  ♪ This is the day ♪ 
  ♪ When things fall into place ♪"
-25,6470478,2,8,"Murphy, single-vehicle car crash incoming. 
+gdoc_2_8,6470478,2,8,"Murphy, single-vehicle car crash incoming. 
  Two victims, husband and wife. 
  You want in? 
  Yes, I would like that very much. 
@@ -23317,7 +23317,7 @@
  You're losing your memory. 
  ♪ 
  ♪"
-26,6470478,2,9,"Shaun... 
+gdoc_2_9,6470478,2,9,"Shaun... 
  You need to give me your driver's license. 
  No, I don't. 
  Do you remember 
@@ -24209,7 +24209,7 @@
  ♪ I'd go the whole wide world ♪ 
  ♪ I'd go the whole wide world ♪ 
  ♪ To find out where they hide her ♪"
-27,6470478,2,10,"[SIGHS] 
+gdoc_2_10,6470478,2,10,"[SIGHS] 
  This is Andrews' fault. 
  Agreed. 
  The bourbon may also bear some responsibility. 
@@ -25134,7 +25134,7 @@
  ♪ Sleep in heavenly ♪ 
  ♪ Peace ♪ 
  ♪♪"
-28,6470478,2,11,"Previously on ""The Good Doctor""... 
+gdoc_2_11,6470478,2,11,"Previously on ""The Good Doctor""... 
  I'm covering the E.R. today. 
  - Gonna be a madhouse. 
  - Yeah. 
@@ -26021,7 +26021,7 @@
  From now on, our troubles 
  will be out of sight 
  ♪"
-29,6470478,2,12,"[CELLPHONE BEEPING] 
+gdoc_2_12,6470478,2,12,"[CELLPHONE BEEPING] 
  [CLICK] 
  ♪ 
  ♪ 
@@ -26823,7 +26823,7 @@
  ♪ The truth of it all 
  ♪ We rise and we fall 
  ♪ We hold on, we hold on"
-30,6470478,2,13,"[CLATTERING] 
+gdoc_2_13,6470478,2,13,"[CLATTERING] 
  [GLASS CLINKING] 
  Good morning. 
  Morning. [CLEARS THROAT] 
@@ -27601,7 +27601,7 @@
  [VOCALIZING] 
  ♪♪ 
  ♪♪"
-31,6470478,2,14,"Shaun, did you undress me? 
+gdoc_2_14,6470478,2,14,"Shaun, did you undress me? 
  Except your underpants. 
  How long have you been here? 
  All night. 
@@ -28218,7 +28218,7 @@
  Good night, Smurf. 
  Night, Glassy. 
  ♪"
-32,6470478,2,15,"- [MONITOR BEEPING] 
+gdoc_2_15,6470478,2,15,"- [MONITOR BEEPING] 
  - [BREATHING HEAVILY] 
  DR. GARCIA: I'm incising the uterine wall. 
  [SNIFFLES] You're doing great, really great. 
@@ -29049,7 +29049,7 @@
  ♪ Where we could never drown ♪ 
  ♪ Now that ♪ 
  ♪ We're at the end ♪"
-33,6470478,2,16,"♪ 
+gdoc_2_16,6470478,2,16,"♪ 
  [ ALARM BEEPING ] 
  ♪ 
  [ BEEPING STOPS ] 
@@ -29823,7 +29823,7 @@
  ♪ Hold me now ♪ 
  ♪ Sold me out ♪ 
  ♪ In the muddy water we're falling ♪"
-34,6470478,2,17,"Previously on ""The Good Doctor""... 
+gdoc_2_17,6470478,2,17,"Previously on ""The Good Doctor""... 
  HAN: Dr. Murphy, you shouldn't be in contact with patients. 
  Or their families. Do you understand? 
  Don't be stupid. 
@@ -30673,7 +30673,7 @@
  ♪ You got it in you ♪ 
  ♪ You got it in you ♪ 
  ♪ You got it in you ♪"
-35,6470478,2,18,"I tried to help you, and you pushed me away. 
+gdoc_2_18,6470478,2,18,"I tried to help you, and you pushed me away. 
  It can't just be about having fun together. 
  If I have to call security, you understand that I'm also gonna have to fire you. 
  I am a surgeon! 
@@ -31374,7 +31374,7 @@
  [GASPS] 
  ♪ 
  [SHOUTING]"
-36,6470478,3,1,"The Good Doctor -   3x1   - Disaster 
+gdoc_3_1,6470478,3,1,"The Good Doctor -   3x1   - Disaster 
  Previously on ""The Good Doctor""... 
  You work together and you are sleeping together. 
  You don't see any way that can go wrong? 
@@ -32037,7 +32037,7 @@
  ♪ Don't let go ♪ 
  ♪ Don't let go ♪ 
  ♪ And when I see ♪"
-37,6470478,3,2,"The Good Doctor -   03x02   - Debts 
+gdoc_3_2,6470478,3,2,"The Good Doctor -   03x02   - Debts 
  Previously on ""The Good Doctor""... 
  We had the clinic at the hospital. 
  Come back as President, and... and we'll re-open it. 
@@ -32886,7 +32886,7 @@
  ♪ Well, you talk like yourself ♪ 
  ♪ No, I hear someone else, though ♪ 
  ♪ Now you're making me nervous ♪"
-38,6470478,3,3,"The Good Doctor -   03x03   - Claire 
+gdoc_3_3,6470478,3,3,"The Good Doctor -   03x03   - Claire 
  I'm Dr. Browne. 
  I'll be performing your surgery today. 
  I'm Dr. Browne. 
@@ -33568,7 +33568,7 @@
  I'm so proud of you, baby. 
  ♪ Slow motion life ♪ 
  ♪ Slow motion life ♪"
-39,6470478,3,4,"The Good Doctor -   03x04   - Take My Hand 
+gdoc_3_4,6470478,3,4,"The Good Doctor -   03x04   - Take My Hand 
  Previously on ""The Good Doctor""... 
  Message received from Mom. 
  Hey, baby. I got your text. 
@@ -34198,7 +34198,7 @@
  ♪ But now am found ♪ 
  ♪ Was blind ♪ 
  ♪ But now I see ♪"
-40,6470478,3,5,"Naughty thought. 
+gdoc_3_5,6470478,3,5,"Naughty thought. 
  How about we don't wait 12 minutes for our next kiss? 
  We would never see the end of the movie. 
  Oh. 
@@ -34753,7 +34753,7 @@
  Yes. 
  It went very well. 
  Can I check your other breast?"
-41,6470478,3,6,"Sorry, Dr. Andrews. 
+gdoc_3_6,6470478,3,6,"Sorry, Dr. Andrews. 
  I had a patient with some post-op arm pain. 
  How can I help you? 
  What's happened to all the nurses? 
@@ -35404,7 +35404,7 @@
  I would not like to meet your friends. 
  - Okay. 
  - Okay."
-42,6470478,3,7,"What, too soon? 
+gdoc_3_7,6470478,3,7,"What, too soon? 
  (EXCLAIMS) 
  (SCHOOL BELL RINGS) 
  (BELCHES) 
@@ -35870,7 +35870,7 @@
  You'll be getting a visit from the Head Fairy. 
  I walked out of the forest Before we said goodbye The birds were all a-singing As she pointed to the sky She said, ""Can't you see the rainbow? 
  They made it just for you"" She handed me her toolbox Said, ""Now you know what to do"" Vroom, vroom, pull the cord Buzz, buzz, just one more Roar, roar, what a thrill With Lumberjill Vroom, vroom, pull the cord Buzz, buzz, just one more Roar, roar, what a thrill With Lumberjill."
-43,6470478,3,8,"- Okay. 
+gdoc_3_8,6470478,3,8,"- Okay. 
  - [LAUGHS] 
  Okay. 
  [SCREAMS] 
@@ -36521,7 +36521,7 @@
  [EXHALES DEEPLY] 
  This is terrifying. 
  And very nice."
-44,6470478,3,9,"Mm. 
+gdoc_3_9,6470478,3,9,"Mm. 
  Kinda overcooked the eggs. 
  Not used to a gas stove. 
  Sorry. 
@@ -37074,7 +37074,7 @@
  Your mom called from Wyoming. 
  Your dad's been diagnosed with pancreatic cancer. 
  He may only have a few days left."
-45,6470478,3,10,"GLASSMAN: Shaun, you need to make a decision. 
+gdoc_3_10,6470478,3,10,"GLASSMAN: Shaun, you need to make a decision. 
  Shaun, please. 
  Your mom's been calling. 
  Your father wants to talk to you. 
@@ -37743,7 +37743,7 @@
  [BREATHING HEAVILY] 
  [BREATHING NORMALIZES] 
  [CRYING]"
-46,6470478,3,11,"Previously on ""The Good Doctor"" Can we just hold each other for a little bit? 
+gdoc_3_11,6470478,3,11,"Previously on ""The Good Doctor"" Can we just hold each other for a little bit? 
  Deal with your crap before this is who you really become. 
  I'm sorry for making you meet me after hours like this. 
  I'm always available for my patients. 
@@ -38348,7 +38348,7 @@
  Okay? 
  I want to be with you. 
  I love you, Carly."
-47,6470478,3,12,"Those are yours. 
+gdoc_3_12,6470478,3,12,"Those are yours. 
  We bought them together. 
  Because you ""found the pattern soothing. 
  "" I'm gonna miss you, Shaun. 
@@ -38895,7 +38895,7 @@
  There is one other thing that's worked for me. 
  Did we fix our mutation? 
  That the best you got?"
-48,6470478,3,13,"Someone had a good night. 
+gdoc_3_13,6470478,3,13,"Someone had a good night. 
  Do you think all of these people have had sex? 
  And if so, shouldn't they be more happy? 
  Maybe their experiences weren't as recent as yours. 
@@ -39515,7 +39515,7 @@
  If I only had six months to live, I wouldn't want to be anywhere but where I am. 
  Are you getting on? 
  No."
-49,6470478,3,14,"(SIGHS) 
+gdoc_3_14,6470478,3,14,"(SIGHS) 
  What? 
  It's time to wake up. 
  Mnh-mnh. 
@@ -40300,7 +40300,7 @@
  I considered all the arguments. 
  I want to be known as a good doctor. 
  Not a good autistic doctor."
-50,6470478,3,15,"I followed Gordon Ramsay's recipe for the perfect scrambled eggs. 
+gdoc_3_15,6470478,3,15,"I followed Gordon Ramsay's recipe for the perfect scrambled eggs. 
  Oh, thank you. 
  This looks amazing. 
  Except I cut the tomatoes in half. 
@@ -40895,7 +40895,7 @@
  It's true. 
  And I think she loves you, too. 
  You should tell her how you feel."
-51,6470478,3,16,"Early 60s, found prone on the sidewalk, appears to have chest pain, maybe broken ribs, - possible heart attack. 
+gdoc_3_16,6470478,3,16,"Early 60s, found prone on the sidewalk, appears to have chest pain, maybe broken ribs, - possible heart attack. 
  - Did you fall? 
  She's very disoriented, hasn't said a thing. 
  Coley? 
@@ -41393,7 +41393,7 @@
  You work in a certain way and Because I have autism? 
  You don't want to be my girlfriend because I have autism? 
  Mm."
-52,6470478,3,17,"Wes Keeler,   ,  pricked in the upper right arm by a cactus four days ago. 
+gdoc_3_17,6470478,3,17,"Wes Keeler,   ,  pricked in the upper right arm by a cactus four days ago. 
  Temp    . . 
  Wound is seriously infected. 
  He was leading a camping trip on Mount Thayer. 
@@ -42237,7 +42237,7 @@
  ♪ To love somebody ♪ 
  ♪ Ooh, to love somebody ♪ 
  ♪ The way I love you ♪"
-53,6470478,3,18,"REPORTER: 
+gdoc_3_18,6470478,3,18,"REPORTER: 
  Severe Winter Weather Advisories 
  have been issued from Kansas to western Minnesota. 
  Severe ice and snow reported. 
@@ -43031,7 +43031,7 @@
  ♪ 
  [SIGHS] 
  ♪"
-54,6470478,3,19,"CLAIRE: 
+gdoc_3_19,6470478,3,19,"CLAIRE: 
  Previously on The Good Doctor... 
  You ready to tell me what's on your mind? 
  I think I'm in love with my boss. 
@@ -43832,7 +43832,7 @@
  ♪ 
  Please hurry. 
  Please hurry!"
-55,6470478,3,20,"[INHALES DEEPLY] 
+gdoc_3_20,6470478,3,20,"[INHALES DEEPLY] 
  ♪ 
  This isn't my usual seat in a speeding ambulance. 
  You vomited and passed out. 
@@ -44594,7 +44594,7 @@
  ♪ Send the rain ♪ 
  ♪ Send my love ♪ 
  ♪ Send my love to everyone ♪"
-56,6470478,4,1,"[INDISTINCT CONVERSATIONS] 
+gdoc_4_1,6470478,4,1,"[INDISTINCT CONVERSATIONS] 
  ♪ 
  CASHIER: All right, that'll be $ .  . 
  MILDRED: Oh, okay. Let me just... 
@@ -45490,7 +45490,7 @@
  I know it's lousy. 
  You're not alone. 
  ♪"
-57,6470478,4,2,"Previously on The Good Doctor... 
+gdoc_4_2,6470478,4,2,"Previously on The Good Doctor... 
  You don't want me to do anything. 
  I spend every minute of every day with you. 
  Since you feel that our time together is something to be endured, I decided to make that easier for you. 
@@ -46244,7 +46244,7 @@
  Negative for COVID. 
  I know negative tests are unreliable, but it's my third in three days. 
  (TV PLAYING INDISTINCTLY)"
-58,6470478,4,3,"Hello. 
+gdoc_4_3,6470478,4,3,"Hello. 
  I'm Freddie Highmore. 
  The following episode portrays our hope for the future, a future where no one will have to wear masks or take other steps to stay safe from COVID. 
  Until then, please protect yourself and others. 
@@ -47139,7 +47139,7 @@
  You helped pick them. 
  As senior residents, it's now your job to help train them. 
  And don't take this responsibility lightly, because if you don't train them well, people will die."
-59,6470478,4,4,"(SITAR MUSIC PLAYING ON SPEAKERS) 
+gdoc_4_4,6470478,4,4,"(SITAR MUSIC PLAYING ON SPEAKERS) 
  YOGA INSTRUCTOR: 
  Move from Bhujangasana into Adho Mukha Svanasana. 
  And hold that. 
@@ -47972,7 +47972,7 @@
  Did we break him? 
  GET INTO AN ALL NEW GOOD DOCTOR. 
  ONLY ON CTV."
-60,6470478,4,5,"It's just a migraine. 
+gdoc_4_5,6470478,4,5,"It's just a migraine. 
  Honey, until we're completely sure... 
  Is the pain a tight band or pulsating? 
  Good question. 
@@ -48738,7 +48738,7 @@
  So am I. 
  ♪ 
  ♪"
-61,6470478,4,6,"Previously on The Good Doctor..."" 
+gdoc_4_6,6470478,4,6,"Previously on The Good Doctor..."" 
  The aneurysm caused his back pain. Dr. Wolke missed it. 
  I screwed up. 
  - (ALARM BLARING) 
@@ -49407,7 +49407,7 @@
  - WOMAN  : 
  ... :  . 
  - DR. LIM: Time of death..."
-62,6470478,4,7,"[WATER RUNNING] 
+gdoc_4_7,6470478,4,7,"[WATER RUNNING] 
  [SHOWER DOOR OPENS] 
  - Oh! 
  - [GIGGLES] 
@@ -50187,7 +50187,7 @@
  ♪ Either way, we're gonna miss it ♪ 
  ♪ 
  ♪ When it's gone ♪"
-63,6470478,4,8,"Remember I told you my parents drop in unannounced? 
+gdoc_4_8,6470478,4,8,"Remember I told you my parents drop in unannounced? 
  - Mm. 
  - I just got a text. 
  They are coming here tomorrow. 
@@ -50874,7 +50874,7 @@
  But it's your job to protect the hospital. 
  And her. 
  So..."
-64,6470478,4,9,"DR. REZNICK: Your primary care doctor was right. 
+gdoc_4_9,6470478,4,9,"DR. REZNICK: Your primary care doctor was right. 
  The mass is on the smaller side. 
  We'll confirm with the new images,  but it should be manageable with medication. 
  No surgery needed. 
@@ -51613,7 +51613,7 @@
  Exhausting, isn't it? 
  But we had to do it, right? 
  To be here?"
-65,6470478,4,10,"♪♪♪♪ 
+gdoc_4_10,6470478,4,10,"♪♪♪♪ 
  Perfect. 
  ♪♪♪♪ 
  What are you doing to me? 
@@ -52432,7 +52432,7 @@
  ♪♪ Ooh, ooh, ooh-ooh 
  ♪♪ You gotta get up, gotta get up 
  ♪♪ Gonna make it through this time ♪♪"
-66,6470478,4,11,"You should be getting a raise. 
+gdoc_4_11,6470478,4,11,"You should be getting a raise. 
  You don't get a raise every time you do something well. 
  You did something very well and saved $ . 
  million. 
@@ -53114,7 +53114,7 @@
  ♪ And a place by the fire for everyone ♪ 
  ♪ Let us take on the world like we're young and able ♪ 
  ♪ So bring us all together when the day is done ♪"
-67,6470478,4,12,"♪♪♪♪ 
+gdoc_4_12,6470478,4,12,"♪♪♪♪ 
  ♪♪♪♪ 
  I couldn’t sleep. 
  We should start taking your blood pressure every day. 
@@ -53845,7 +53845,7 @@
  Okay. 
  Okay. 
  ♪♪ I’ll be there for you ♪♪"
-68,6470478,4,13,"We are having a baby. 
+gdoc_4_13,6470478,4,13,"We are having a baby. 
  Morning, Shaun. 
  Were you watching me sleep? 
  Yes. 
@@ -54496,7 +54496,7 @@
  We’re having a baby. 
  (LAUGHS) 
  [♪♪♪♪]"
-69,6470478,4,14,"(BOTH BREATHING HEAVILY) 
+gdoc_4_14,6470478,4,14,"(BOTH BREATHING HEAVILY) 
  Bet that burned some calories. 
  Almost as good as a session of hot yoga. 
  With considerably fewer wind chimes. 
@@ -55145,7 +55145,7 @@
  By letting her know that she’s loved and supported. 
  We’ll raise her to be strong. 
  Like you."
-70,6470478,4,15,"(CROWD CHANTING “266!”) 
+gdoc_4_15,6470478,4,15,"(CROWD CHANTING “266!”) 
  It’s just an hour. 
  Which really means an hour and a half, which means by the time we get to Jason’s, 
  the party will be over. It’s not a party. 
@@ -55747,7 +55747,7 @@
  Help! 
  Okay. 
  (CLOSING TUNE PLAYING)"
-71,6470478,4,16,"You said the pain was intense? 
+gdoc_4_16,6470478,4,16,"You said the pain was intense? 
  Yeah, it was sharp on both sides. 
  And it didn't last long? 
  Just a few minutes. 
@@ -56281,7 +56281,7 @@
  Thank you. 
  (MONITOR BEEPING) 
  (SOBBING)"
-72,6470478,4,17,"Don’t put any food down the sink. 
+gdoc_4_17,6470478,4,17,"Don’t put any food down the sink. 
  Garbage disposal’s broken. 
  I’ll call the landlord. All right. 
  He took a week to call the plumber when we lost the hot water, but I guess this doesn’t matter as much. 
@@ -56984,7 +56984,7 @@
  ♪♪ But I have to believe That it is ♪♪ 
  (SNIFFLES) 
  (CLOSING THEME MUSIC PLAYING)"
-73,6470478,4,18,"Previously on ""The Good Doctor"".. 
+gdoc_4_18,6470478,4,18,"Previously on ""The Good Doctor"".. 
  Can I help you? 
  My name's Miles Browne. 
  I'm your father. 
@@ -57731,7 +57731,7 @@
  ♪ And all those evenings out in the garden ♪ 
  ♪ With red, red wine ♪ 
  ♪ These quiet hours turning to years ♪"
-74,6470478,4,19,"[INDISTINCT CONVERSATIONS] 
+gdoc_4_19,6470478,4,19,"[INDISTINCT CONVERSATIONS] 
  CLAIRE: Can you pop the trunk? 
  ♪♪   Ah! 
  [SIGHS] 
@@ -58449,7 +58449,7 @@
  ♪♪ 
  [SIGHS] 
  ♪♪"
-75,6470478,4,20,"How are you feeling? 
+gdoc_4_20,6470478,4,20,"How are you feeling? 
  I want you to feel better. 
  So if going home might make you feel better it’s a good thing. 
  So, like, “Come on.” How would you say that? 
@@ -59099,7 +59099,7 @@
  Venga! Vamos! 
  ♪♪♪♪ 
  [CLOSING THEME MUSIC PLAYING]"
-76,6470478,5,1,"Shaun Robert Murphy, 
+gdoc_5_1,6470478,5,1,"Shaun Robert Murphy, 
  do you take Lea Abigail Dilallo 
  to be your wife... 
  ...to live together... 
@@ -60068,7 +60068,7 @@
  What? By who? 
  I'm looking forward to working 
  with both of you."
-77,6470478,5,2,"Ethicure. 
+gdoc_5_2,6470478,5,2,"Ethicure. 
  Devoted to an improved, accessible, 
  for-profit, state-of-the-art 
  healthcare experience. 
@@ -61095,7 +61095,7 @@
  - Stop it! Stop it! 
  - Stop it! Stop it! Stop it! 
  - You're gonna be okay. Shaun."
-78,6470478,5,3,"(SOFT CLATTER IN DISTANCE) 
+gdoc_5_3,6470478,5,3,"(SOFT CLATTER IN DISTANCE) 
  (SIGHS) 
  You okay? 
  I stamped and addressed 
@@ -62298,7 +62298,7 @@
  I'm sure he didn't. 
  ♪ ♪ 
  (CLOSING THEME MUSIC PLAYING)"
-79,6470478,5,4,"♪ 
+gdoc_5_4,6470478,5,4,"♪ 
  It's a nice photo. 
  ♪ 
  I did not approve that billboard. 
@@ -63335,7 +63335,7 @@
  ♪ But we all know, if there's 
  hope, then we'll be okay ♪ 
  ♪"
-80,6470478,5,5,"Think of these not as a report card, 
+gdoc_5_5,6470478,5,5,"Think of these not as a report card, 
  but a window into the minds 
  of your clients, 
  their families and support persons, 
@@ -64280,7 +64280,7 @@
  My efforts to improve my performance 
  have been effective after all. 
  And no one said I was weird."
-81,6470478,5,6,"(CHEERS AND APPLAUSE) 
+gdoc_5_6,6470478,5,6,"(CHEERS AND APPLAUSE) 
  (INDISTINCT CHATTER) WOMAN: Home run! 
  (CHEERING) 
  (CHEERING CONTINUES) 
@@ -65147,7 +65147,7 @@
  you haven't reached Aaron Glassman, 
  so I'll call you back sometime. 
  (CLOSING THEME MUSIC PLAYING)"
-82,6470478,5,7,"This might be the first place 
+gdoc_5_7,6470478,5,7,"This might be the first place 
  we've visited that feels right. 
  That's good. 
  But, Shaun, we really need to 
@@ -66123,7 +66123,7 @@
  I got you. I got you. 
  (SOBBING ECHOING) 
  I got you. I'm right here."
-83,6470478,5,8,"LEA: Previously on The Good Doctor... 
+gdoc_5_8,6470478,5,8,"LEA: Previously on The Good Doctor... 
  I omitted some of the patient reviews. 
  That's why your scores went up. 
  I am truly so sorry. 
@@ -67247,7 +67247,7 @@
  (CRYING) 
  (SNIFFLES, GRUNTS) 
  (CRYING)"
-84,6470478,5,9,"You have a couch, right? 
+gdoc_5_9,6470478,5,9,"You have a couch, right? 
  Mm-hmm. 
  - Thank you. 
  - Mm-hmm. 
@@ -68028,7 +68028,7 @@
  Shaun. 
  I'm in. 
  Let's run her bandit ass outta town."
-85,6470478,5,10,"Shaun? 
+gdoc_5_10,6470478,5,10,"Shaun? 
  Oh, hello, Dr. Glassman. 
  If you're here to 
  talk about our argument... 
@@ -68958,7 +68958,7 @@
  ♪ Hold my breath until I'm honest ♪ 
  ♪ Will I ever breathe again? ♪ 
  ♪ Will I ever breathe again? ♪"
-86,6470478,5,11,"Previously on ""The Good Doctor..."" 
+gdoc_5_11,6470478,5,11,"Previously on ""The Good Doctor..."" 
  Nira is half-blind because of you. 
  - You think I control Salen? 
  - How about taking a stand? 
@@ -70027,7 +70027,7 @@
  ♪ 
  (SIGHS) 
  ♪"
-87,6470478,5,12,"[LOCK ENGAGES] 
+gdoc_5_12,6470478,5,12,"[LOCK ENGAGES] 
  [SIGHS] 
  [BUZZING] 
  [♪♪♪♪♪♪] 
@@ -71140,7 +71140,7 @@
  Oh. 
  [BOTH LAUGH] 
  [CLOSING THEME MUSIC PLAYING]"
-88,6470478,5,12,"[LOCK ENGAGES] 
+gdoc_5_12,6470478,5,12,"[LOCK ENGAGES] 
  [SIGHS] 
  [BUZZING] 
  [♪♪♪♪♪♪] 
@@ -72253,7 +72253,7 @@
  Oh. 
  [BOTH LAUGH] 
  [CLOSING THEME MUSIC PLAYING]"
-89,6470478,5,13,"JORDAN: (CHUCKLES) 
+gdoc_5_13,6470478,5,13,"JORDAN: (CHUCKLES) 
  '  s night should be banned. 
  LEA: You had a blast. 
  I didn't say it wasn't fun, 
@@ -73337,7 +73337,7 @@
  ♪ Tonight, tonight ♪ 
  ♪ Tonight ♪ 
  (CLOSING THEME MUSIC PLAYING)"
-90,6470478,5,14,"(EARTH, WIND & FIRE'S SEPTEMBER PLAYING) 
+gdoc_5_14,6470478,5,14,"(EARTH, WIND & FIRE'S SEPTEMBER PLAYING) 
  ♪ Do you remember... ♪ 
  - Morgan's meatballs? 
  - Garlic. 
@@ -74489,7 +74489,7 @@
  (CHUCKLES) You've got a lot to learn. 
  ♪ 
  (CLOSING THEME MUSIC PLAYING)"
-91,6470478,5,15,"(ALARM BEEPING) 
+gdoc_5_15,6470478,5,15,"(ALARM BEEPING) 
  ♪♪ 
  (BEEPING STOPS) 
  ♪♪ 
@@ -75897,7 +75897,7 @@
  ♪♪ 
  ♪♪ 
  ♪♪"
-92,6470478,5,16,"♪ I see trees of green ♪ 
+gdoc_5_16,6470478,5,16,"♪ I see trees of green ♪ 
  (BEEP) 
  ♪ Red roses, too ♪ 
  ♪ I see them bloom ♪ 
@@ -76843,7 +76843,7 @@
  (CHEERING, LAUGHTER) 
  It's Claire! 
  (CLOSING THEME MUSIC PLAYING)"
-93,6470478,5,17,"LEA: Previously on The Good Doctor... 
+gdoc_5_17,6470478,5,17,"LEA: Previously on The Good Doctor... 
  I'm producing a reality wedding 
  series for Hulu about atypical couples. 
  JORDAN: You are not 
@@ -77902,7 +77902,7 @@
  ♪ 
  ♪ You're wasting time ♪ 
  (CLOSING THEME MUSIC PLAYING)"
-94,6470478,5,18,"Banana blueberry 
+gdoc_5_18,6470478,5,18,"Banana blueberry 
  with a hint of cinnamon. 
  I think it's my best yet. 
  Hm. I like chocolate chip... 
@@ -78877,7 +78877,7 @@
  ♪ God only knows 
  what I'd be without you ♪ 
  ♪ God only ♪"
-95,6470478,6,1,"Previously on ""The Good Doctor..."" 
+gdoc_6_1,6470478,6,1,"Previously on ""The Good Doctor..."" 
  [DR. ANDREWS] Shaun Robert Murphy, 
  do you take Lea Abigail Dilallo... 
  - I do. 
@@ -79724,7 +79724,7 @@
  Try again. 
  You're paralyzed. 
  ♪ You won't forget her ♪"
-96,6470478,6,2,"Can I give you a hand? 
+gdoc_6_2,6470478,6,2,"Can I give you a hand? 
  Oh. No, thanks. 
  Everything in its place. 
  Ah! 
@@ -80656,7 +80656,7 @@
  just so I can get off the damn toilet. 
  And I hate Shaun Murphy. 
  This is all his fault."
-97,6470478,6,3,"I love... 
+gdoc_6_3,6470478,6,3,"I love... 
  our married people plates 
  so much. Don't you? 
  They have a pleasant heft 
@@ -81683,7 +81683,7 @@
  is medicine only. 
  [DRAMATIC MUSIC PLAYING] 
  [CLOSING THEME MUSIC PLAYING]"
-98,6470478,6,4,"Previously on The Good Doctor... 
+gdoc_6_4,6470478,6,4,"Previously on The Good Doctor... 
  I feel something. A crush. 
  Shaun, did you change the surgical plan? 
  The parameters it was based on changed. 
@@ -82708,7 +82708,7 @@
  that will cure Lim's paralysis. 
  Oh. 
  Okay."
-99,6470478,6,5,"[DR. LIM] 
+gdoc_6_5,6470478,6,5,"[DR. LIM] 
  Previously on 
  The Good Doctor... 
  You put me here, 
@@ -83679,7 +83679,7 @@
  I don't know if I can help. 
  But I am going to try. 
  [GENTLE MUSIC PLAYING]"
-100,6470478,6,6,"[WEATHERMAN] 
+gdoc_6_6,6470478,6,6,"[WEATHERMAN] 
  A brutal heat wave... 
  Barely  :  , and it's already... 
  ...breaking all records. 
@@ -84666,7 +84666,7 @@
  Unless you're too busy with PT. 
  I think I might be ready to graduate. 
  [CLOSING THEME MUSIC PLAYING]"
-101,6470478,6,7,"You're smiling. 
+gdoc_6_7,6470478,6,7,"You're smiling. 
  - Why? 
  - Well... 
  That is your menstrual cycle. 
@@ -85683,7 +85683,7 @@
  ♪ Boys don't cry... ♪ 
  [SOBBING CONTINUES] 
  ♪ Boys don't cry ♪"
-102,6470478,6,8,"[BEEPING STOPS] 
+gdoc_6_8,6470478,6,8,"[BEEPING STOPS] 
  [SIGHS] 
  Time to get up already? 
  Mm, for me. Early department meeting. 
@@ -86627,7 +86627,7 @@
  in the psoas and in the glutes. 
  There was movement. 
  She could walk again."
-103,6470478,6,9,"After six open houses, 
+gdoc_6_9,6470478,6,9,"After six open houses, 
  I am sure that 
  ""fixer-upper"" means decrepit. 
  Well, part of the fun is imagining 
@@ -87767,7 +87767,7 @@
  ♪ Tell me what makes you sad ♪ 
  ♪ Oh, tell me what makes ♪ 
  ♪ Tell me what makes you sad"" ♪"
-104,6470478,6,10,"Previously on ""The Good Doctor""... 
+gdoc_6_10,6470478,6,10,"Previously on ""The Good Doctor""... 
  [LIM] Glassman found movement 
  in my psoas and glutes. 
  He and Murphy found 
@@ -88734,7 +88734,7 @@
  Elegant yet understated. 
  I think our son 
  would like that very much."
-105,6470478,6,11,"Mm, I love this so much. 
+gdoc_6_11,6470478,6,11,"Mm, I love this so much. 
  The lake, the fir trees, 
  the fresh air... 
  Good. You have    minutes to enjoy it. 
@@ -89789,7 +89789,7 @@
  ♪ Why I'm going through these changes ♪ 
  ♪♪ 
  ♪♪"
-106,6470478,6,12,"Oh. Good morning. 
+gdoc_6_12,6470478,6,12,"Oh. Good morning. 
  Not so much. 
  Sorry. I hate when repair guys are late. 
  [DR. GLASSMAN] He wasn't late. 
@@ -90897,7 +90897,7 @@
  ♪ Hey, yo ♪ 
  ♪ Hey, yo ♪ 
  ♪ You got plenty of time ♪"
-107,6470478,6,13,"[DOOR OPENS] 
+gdoc_6_13,6470478,6,13,"[DOOR OPENS] 
  Good morning. 
  Admissions percentages at top colleges 
  have dropped to record lows. 
@@ -91814,7 +91814,7 @@
  Easy peasy. Number   ? 
  ♪ We'll all be We'll all 
  be We'll all be alright ♪"
-108,6470478,6,14,"Ohh. 
+gdoc_6_14,6470478,6,14,"Ohh. 
  Sorry. 
  Did I wake you? 
  Yes. 
@@ -92829,7 +92829,7 @@
  - He's our next-door neighbor? 
  Our next-door neighbor's 
  next-door neighbor."
-109,6470478,6,15,"[SIGHS] 
+gdoc_6_15,6470478,6,15,"[SIGHS] 
  Stop looking at me. 
  [QUIRKY MUSIC PLAYING] 
  [DOOR OPENS] 
@@ -93804,7 +93804,7 @@
  You're being sued for malpractice. 
  [QUIRKY MUSIC PLAYING] 
  It wasn't Dr. Glassman."
-110,6470478,6,16,"She's smart, she's tough, 
+gdoc_6_16,6470478,6,16,"She's smart, she's tough, 
  so fight for you, 
  I've been impressed with her every time. 
  How many times have you been sued? 
@@ -94879,7 +94879,7 @@
  ♪ Though your feet may take you 
  far from me, I know ♪ 
  ♪ Wherever is your heart I call home ♪"
-111,6470478,6,17,"I made you blueberry pancakes. 
+gdoc_6_17,6470478,6,17,"I made you blueberry pancakes. 
  Would you prefer cauliflower? 
  Nope. Shaun, that's our baby. 
  I'm    weeks. 
@@ -95945,7 +95945,7 @@
  - Okay. 
  [OMINOUS MUSIC PLAYING] 
  [CLOSING THEME MUSIC PLAYING]"
-112,6470478,6,18,"[LEA] Previously on The Good Doctor... 
+gdoc_6_18,6470478,6,18,"[LEA] Previously on The Good Doctor... 
  You go going to the club or work? 
  Yeah, these early calls are 
  gonna take some getting used to. 
@@ -97020,7 +97020,7 @@
  Like a fist to an open palm 
  'I'll take it all'"" 
  [CLOSING THEME MUSIC PLAYING]"
-113,6470478,6,19,"Previously on The Good Doctor... 
+gdoc_6_19,6470478,6,19,"Previously on The Good Doctor... 
  I want to do another 
  embryo transfer ASAP. 
  You have some lettuce. 
@@ -98050,7 +98050,7 @@
  but there is something wrong 
  with his brain. 
  [CLOSING THEME PLAYING]"
-114,6470478,6,20,"Previously on The Good Doctor... 
+gdoc_6_20,6470478,6,20,"Previously on The Good Doctor... 
  I've been thinking, 
  and I need a break from our coffees. 
  If you don't value what the nurses do, 
@@ -99122,7 +99122,7 @@
  involving many sequential steps. 
  It is permanent. 
  He shouldn't be doing surgery anymore."
-115,6470478,6,21,"[LEA] Previously on The Good Doctor... 
+gdoc_6_21,6470478,6,21,"[LEA] Previously on The Good Doctor... 
  [DR. ANDREWS] Dalisay! 
  I know I didn't show you enough respect, 
  and I didn't make enough effort to 
@@ -100120,7 +100120,7 @@
  The Peanut is coming! 
  [DRAMATIC MUSIC PLAYING] 
  [CLOSING THEME MUSIC PLAYING]"
-116,6470478,6,22,"[SHAUN] You should put this on now. 
+gdoc_6_22,6470478,6,22,"[SHAUN] You should put this on now. 
  My contractions are still 
  nine minutes apart, 
  and they're not... [GASPS] 
@@ -101108,7 +101108,7 @@
  This is a gift from your grandfather. 
  ♪ Coming home ♪ 
  [CLOSING THEME MUSIC PLAYING]"
-117,6470478,7,1,"Previously on ""The Good Doctor""... 
+,6470478,7,1,"Previously on ""The Good Doctor""... 
  - Hey! Stop! 
  - Danny! 
  Just promise me. 
@@ -102083,7 +102083,7 @@
  I got you. Huh. I got you. 
  I'm Grandpa... 
  in case you were wondering."
-118,6470478,7,2,"Grasp is good, 
+,6470478,7,2,"Grasp is good, 
  but Steve's not gaining weight 
  quite as quickly as I'd like. 
  I'm feeding him every two 
@@ -103176,7 +103176,7 @@
  ♪ We got it good ♪ 
  ♪ We got it good ♪ 
  [CLOSING THEME MUSIC PLAYING]"
-119,6470478,7,3,"♪ Or you can take a ride ♪ 
+,6470478,7,3,"♪ Or you can take a ride ♪ 
  ♪ You can get a tan 
  Or stay inside ♪ 
  ♪ But the sun Keeps on shining ♪ 
@@ -104440,7 +104440,7 @@
  ♪ Keep holdin' on, holdin' on ♪ 
  ♪ For brighter days ♪ 
  [CLOSING THEME MUSIC PLAYING]"
-120,6470478,7,4,"An isobar is a line 
+,6470478,7,4,"An isobar is a line 
  of equal barometric pressures. 
  Not to be confused with an isotach, 
  which is a line of equal wind speeds, 
@@ -105574,7 +105574,7 @@
  ♪♪ 
  ♪♪ 
  ♪♪"
-121,6470478,7,5,"[LEA] Previously on The Good Doctor... 
+,6470478,7,5,"[LEA] Previously on The Good Doctor... 
  I'm Charlotte Lukaitis. 
  - Charlie. You are on my team. 
  - Yes! 
@@ -106703,7 +106703,7 @@
  [THUNDER RUMBLES] 
  ♪ Is calling? ♪ 
  [CLOSING THEME MUSIC PLAYING]"
-122,6470478,7,6,"[DR. LIM] 
+,6470478,7,6,"[DR. LIM] 
  Previously on 
  The Good Doctor... 
  You've always taken after your father. 
@@ -107703,7 +107703,7 @@
  ♪ All we know is 
  How to say goodbye ♪ 
  [CLOSING THEME MUSIC PLAYING]"
-123,6470478,7,7,"[ENGINE STOPS] 
+,6470478,7,7,"[ENGINE STOPS] 
  It might sound extreme, 
  but I'm pretty sure I'm in love. 
  I thought you had three more 
@@ -108808,7 +108808,7 @@
  Which means loves it here. 
  Or it could be 
  an early indication of autism."
-124,6470478,7,8,"[GENTLE MUSIC] 
+,6470478,7,8,"[GENTLE MUSIC] 
  Did he finish his... 
  What are you doing? 
  Steve has little vocalization, 
@@ -109815,7 +109815,7 @@
  ♪♪ And then what happens We'll see ♪♪ 
  ♪♪ And then what happens We'll see ♪♪ 
  [CLOSING THEME MUSIC PLAYING]"
-125,6470478,7,9,"Okay. Juice and coffee all ready. 
+,6470478,7,9,"Okay. Juice and coffee all ready. 
  - Should I take the banana bread out? 
  - [TIMER RINGING] 
  Yes, please. 
@@ -110885,7 +110885,7 @@
  St. Bonaventure, 
  as fast as you can drive. 
  [CLOSING THEME MUSIC PLAYING]"
-126,6470478,7,10,"[LEA] How long have you known? 
+,6470478,7,10,"[LEA] How long have you known? 
  [SIGHS] 
  About a week or two. 
  My doctor found it on the yearly scan. 
